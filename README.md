@@ -8,7 +8,7 @@ A website that offers Online ReputationManagement, Search Engine Optimization, a
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://vn135766.github.io/urban-octo-telegram/
 
 ## Contribution
 Made with ❤️ by Horiseon and curated by Victor Nunez 
